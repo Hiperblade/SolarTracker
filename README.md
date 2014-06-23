@@ -3,9 +3,9 @@ SolarTracker
 
 Solar Tracker Library for Arduino
 
-![BreadBoard](/readme/BreadBoard.png "BreadBoard")
+![BreadBoard](/readme/BreadBoard_2Axes.png "BreadBoard")
 
-![Scheme](/readme/Scheme.png "Scheme")
+![Scheme](/readme/Scheme_2Axes.png "Scheme")
 
 Single axis
 
