@@ -20,7 +20,6 @@ void setup()
 void loop()
 {
   SolarTracker::Data data = sensor.track();
-  Serial.print("Sensor value - horizontal: " + data.horizontalDirection);
-  Serial.println(" vertical: " + data.verticalDirection);
+  Serial.println("Sensor value - horizontal: " + String(data.horizontalDirection) + " vertical: " + String(data.verticalDirection));
   delay(100);
 }
