@@ -19,6 +19,6 @@ void setup()
 
 void loop()
 {
-  Serial.println("Sensor value: " + sensor.track());
+  Serial.println("Sensor value: " + String(sensor.track()));
   delay(100);
 }
