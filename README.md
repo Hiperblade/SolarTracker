@@ -3,8 +3,8 @@ SolarTracker
 
 Solar Tracker Library for Arduino
 
-![3D Model](/readme/SolarTrackerSensor.jpg "3D Model")
 [3D Model](/readme/SolarTrackerSensor.skp "3D Model")
+![3D Model](/readme/SolarTrackerSensor.jpg "3D Model")
 
 ![BreadBoard](/readme/BreadBoard_2Axes.png "BreadBoard")
 
